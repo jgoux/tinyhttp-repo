@@ -1,0 +1,10 @@
+{
+  "name": "tinyhttp-repro",
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@tinyhttp/app": "2.0.20",
+    "@tsconfig/node16-strictest-esm": "1.0.1",
+    "typescript": "4.7.2"
+  }
+}
